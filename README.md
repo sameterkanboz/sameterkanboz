@@ -11,7 +11,7 @@
 
 ## 🚀 Projelerim
 
-- **[Car Service App](https://github.com/sameterkanboz/car-service-app):** React Native, Expo, Golang ve Docker ile geliştirilen mobil uygulama. Müşteriler ile araç bakım ve onarım hizmeti sunan ustaları bir araya getirir.
+- **[Car Service App WORK in PROGRESS.](https://github.com/sameterkanboz/car-service-app):** React Native, Expo, Golang ve Docker ile geliştirilen mobil uygulama. Müşteriler ile araç bakım ve onarım hizmeti sunan ustaları bir araya getirir.
 - **[Graphql Country App](https://github.com/sameterkanboz/graphql-country-client):** GraphQL ve React ile geliştirilen pratik ülke filtreleme uygulaması.
 - **[Hotel Management App](https://github.com/sameterkanboz/hotelManagement):** Golang ve React ile geliştirilen hızlı ve kullanıcı dostu otel yönetim uygulaması.
 
@@ -24,8 +24,6 @@
 ## 📝 Ek Bilgiler
 
 - Özgeçmiş: [Samet Erkan Boz - CV.pdf](https://drive.google.com/file/d/1vimA0XiH9ZDRpVjhLONduRBQYulUE4cj/view)
-
-
 
 ## 🌱 Güncel olarak öğrenmekte olduğum...
 
