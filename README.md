@@ -19,7 +19,7 @@
 
 - GitHub: [Samet Erkan Boz](https://github.com/sameterkanboz)
 - LinkedIn: [Samet Erkan Boz](https://www.linkedin.com/in/samet-erkan-boz/)
-- Twitter: [Twitter Samet Erkan Boz](https://twitter.com/sameterkanboz)
+- Twitter: [Samet Erkan Boz](https://twitter.com/sameterkanboz)
 
 ## 📝 Ek Bilgiler
 
