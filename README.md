@@ -17,8 +17,7 @@
 
 ## 📫 Benimle İletişime Geçin
 
-- GitHub: [Samet Erkan Boz](https://github.com/sameterkanboz)
-- LinkedIn: [Samet Erkan Boz](https://www.linkedin.com/in/samet-erkan-boz/)
+- LinkedIn: [Samet Erkan Boz](https://www.linkedin.com/in/sameterkanboz/)
 - Twitter: [Samet Erkan Boz](https://twitter.com/sameterkanboz)
 
 ## 📝 Ek Bilgiler
