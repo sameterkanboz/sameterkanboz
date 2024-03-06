@@ -10,8 +10,8 @@
 - **Diğer:** Docker
 
 ## 🚀 Projelerim
-- **[Library Tracker WORK in PROGRESS.](https://github.com/sameterkanboz/library-tracker):** React Native, Expo ve Firebase ile geliştirilen mobil uygulama. Kullanıcının kütüphanelerini düzenlemesine yardımcı olmayı hedefleyen uygulamadır.
-- **[Car Service App WORK in PROGRESS.](https://github.com/sameterkanboz/car-service-app):** React Native, Expo, Golang ve Docker ile geliştirilen mobil uygulama. Müşteriler ile araç bakım ve onarım hizmeti sunan ustaları bir araya getirir.
+- **[Library Tracker WORK in PROGRESS 🚧.](https://github.com/sameterkanboz/library-tracker):** React Native, Expo ve Firebase ile geliştirilen mobil uygulama. Kullanıcının kütüphanelerini düzenlemesine yardımcı olmayı hedefleyen uygulamadır.
+- **[Car Service App WORK in PROGRESS 🚧.](https://github.com/sameterkanboz/car-service-app):** React Native, Expo, Golang ve Docker ile geliştirilen mobil uygulama. Müşteriler ile araç bakım ve onarım hizmeti sunan ustaları bir araya getirir.
 - **[Graphql Country App](https://github.com/sameterkanboz/graphql-country-client):** GraphQL ve React ile geliştirilen pratik ülke filtreleme uygulaması.
 - **[Hotel Management App](https://github.com/sameterkanboz/hotelManagement):** Golang ve React ile geliştirilen hızlı ve kullanıcı dostu otel yönetim uygulaması.
 
