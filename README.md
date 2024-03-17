@@ -10,7 +10,7 @@
 - **Diğer:** Docker
 
 ## 🚀 Projelerim
-- **[GoLang WebSocket Chat App WORK in PROGRESS 🚧.](https://github.com/sameterkanboz/go-ws-chat-app):** GoLang ve WebSocket kullanılarak geliştirilen realtime chat uygulaması.
+- **[GoLang WebSocket Chat App.](https://github.com/sameterkanboz/go-ws-chat-app):** GoLang ve WebSocket kullanılarak geliştirilen realtime chat uygulaması.
 - **[Library Tracker WORK in PROGRESS 🚧.](https://github.com/sameterkanboz/library-tracker):** React Native, Expo ve Firebase ile geliştirilen mobil uygulama. Kullanıcının kütüphanelerini düzenlemesine yardımcı olmayı hedefleyen uygulamadır.
 - **[Car Service App WORK in PROGRESS 🚧.](https://github.com/sameterkanboz/car-service-app):** React Native, Expo, Golang ve Docker ile geliştirilen mobil uygulama. Müşteriler ile araç bakım ve onarım hizmeti sunan ustaları bir araya getirir.
 - **[Textile Configurator App](https://github.com/sameterkanboz/r3f-textile-configurator):** react-three-fiber kullanılarak geliştirilen demo uygulama. Farklı texturelar kullanarak tekstil ürünlerinin konfigüre edilmesi hedeflenmiştir. 
