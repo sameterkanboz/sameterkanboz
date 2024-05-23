@@ -26,7 +26,7 @@
 
 ## 📝 Ek Bilgiler
 
-- Özgeçmiş: [Samet Erkan Boz - CV.pdf](https://drive.google.com/file/d/1vimA0XiH9ZDRpVjhLONduRBQYulUE4cj/view)
+- Özgeçmiş: [Samet Erkan Boz - CV.pdf](https://seboz.xyz/sameterkanboz_cv_en_2024.pdf)
 
 ## 🌱 Güncel olarak öğrenmekte olduğum...
 
