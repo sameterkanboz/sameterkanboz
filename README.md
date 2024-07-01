@@ -41,3 +41,7 @@
 ## ❤️ Destek
 
 Eğer projelerimden birini beğendiyseniz, lütfen ⭐️'layın. Her türlü geri bildirim ve katkıya açığım!
+
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameterkanboz&langs_count=4)
+
