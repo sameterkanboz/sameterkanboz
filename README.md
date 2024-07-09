@@ -44,4 +44,4 @@ Eğer projelerimden birini beğendiyseniz, lütfen ⭐️'layın. Her türlü ge
 
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameterkanboz&langs_count=4)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sameterkanboz)
