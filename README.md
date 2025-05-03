@@ -1,4 +1,4 @@
-# Merhaba, Ben Samet Erkan Boz 👋 **[seboz.xyz](https://seboz.xyz)** 
+# Merhaba, Ben Samet Erkan Boz 👋 **[seboz.dev](https://seboz.dev)** 
 
 🌍 Merhaba! İstanbul, Türkiye'de yaşayan bir Full Stack Developer'ım. Yazılım dünyasına olan tutkum ve sürekli öğrenme isteğimle yeni projeler geliştirmeye devam ediyorum.
 
@@ -9,7 +9,7 @@
 - **Backend:** Golang
 - **Diğer:** Docker
 ## 🚀 Projelerim
-- **[Samet Erkan Boz Portfolio Uygulaması.](https://github.com/sameterkanboz/portfolio):** Next.js ve Tailwind CSS kullanılarak geliştirilen portfolio uygulaması. **[LIVE](https://seboz.xyz)** 
+- **[Samet Erkan Boz Portfolio Uygulaması.](https://github.com/sameterkanboz/portfolio):** Next.js ve Tailwind CSS kullanılarak geliştirilen portfolio uygulaması. **[LIVE](https://seboz.dev)** 
 - **[GoLang WebSocket Chat App.](https://github.com/sameterkanboz/go-ws-chat-app):** GoLang ve WebSocket kullanılarak geliştirilen realtime chat uygulaması.
 - **[Library Tracker WORK in PROGRESS 🚧.](https://github.com/sameterkanboz/library-tracker):** React Native, Expo ve Firebase ile geliştirilen mobil uygulama. Kullanıcının kütüphanelerini düzenlemesine yardımcı olmayı hedefleyen uygulamadır.
 - **[Car Service App WORK in PROGRESS 🚧.](https://github.com/sameterkanboz/car-service-app):** React Native, Expo, Golang ve Docker ile geliştirilen mobil uygulama. Müşteriler ile araç bakım ve onarım hizmeti sunan ustaları bir araya getirir.
@@ -25,7 +25,7 @@
 
 ## 📝 Ek Bilgiler
 
-- Özgeçmiş: [Samet Erkan Boz - CV.pdf](https://seboz.xyz/sameterkanboz_cv_en_2024.pdf)
+- Özgeçmiş: [Samet Erkan Boz - CV.pdf](https://seboz.dev/sameterkanboz_cv_en_2024.pdf)
 
 ## 🌱 Güncel olarak öğrenmekte olduğum...
 
